@@ -1,0 +1,10 @@
+D:\Alex\Projects\БД\Срв1\Срв1\bin\Debug\Срв1.exe.config
+D:\Alex\Projects\БД\Срв1\Срв1\bin\Debug\Срв1.exe
+D:\Alex\Projects\БД\Срв1\Срв1\bin\Debug\Срв1.pdb
+D:\Alex\Projects\БД\Срв1\Срв1\obj\Debug\Срв1.Form1.resources
+D:\Alex\Projects\БД\Срв1\Срв1\obj\Debug\Срв1.Properties.Resources.resources
+D:\Alex\Projects\БД\Срв1\Срв1\obj\Debug\Срв1.csproj.GenerateResource.Cache
+D:\Alex\Projects\БД\Срв1\Срв1\obj\Debug\Срв1.csproj.CoreCompileInputs.cache
+D:\Alex\Projects\БД\Срв1\Срв1\obj\Debug\Срв1.exe
+D:\Alex\Projects\БД\Срв1\Срв1\obj\Debug\Срв1.pdb
+D:\Alex\Projects\БД\Срв1\Срв1\obj\Debug\Срв1.csprojResolveAssemblyReference.cache
